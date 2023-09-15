@@ -105,8 +105,6 @@ if b :
         prediction = model_1.predict(arr)
 
         st.write(prediction)
-# print(data1)
-
 
 
 
