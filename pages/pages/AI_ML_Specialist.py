@@ -1,0 +1,12 @@
+import streamlit as st
+st.header("AI ML Specialist")
+st.write("AI/ML specialist is a software specialist with a strong mathematics background and a knowledge of coding, who’s core responsibilities are Designing and developing machine learning and deep learning systems, Running machine learning tests and experiments, Implementing appropriate ML algorithms.")
+st.subheader("Educational Requirements")
+st.write("In order to get a job as an AI/ML Specialist a Bachleor or Master’s degree in computer science, mathematics or similar relevant field is a necessity.One have to master data structures (stacks, queues, multi-dimensional arrays, trees, graphs), algorithms (searching, sorting, optimization, dynamic programming), computability and complexity (P vs. NP, NP-complete problems, big-O notation, approximate algorithms), and computer architecture (memory, cache, bandwidth, deadlocks, distributed processing).One have to master coding languages, such as Python, C++, JavaScript, Java, C#, Julia, Shell, R, TypeScript.")
+st.subheader("Duties and Responsibilities")
+st.write("1. Understanding business objectives and developing models that help to achieve them, along with metrics to track their progress.")
+st.write("2. Understand company and client challenges and how integrating AI capabilities can help create solutions.")
+st.write("3. Develop machine learning applications according to requirements.")
+st.write("4. Select appropriate datasets and data representation methods.")
+st.write("5. Analyze and explain AI and machine learning (ML) solutions while setting and maintaining high ethical standards.")
+st.write("6. Designing machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.")
